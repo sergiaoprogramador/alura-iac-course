@@ -1,0 +1,6 @@
+.terraform
+.terraform.lock.hcl
+alura-iac-course-2008ea71372a.json
+terraform.tfstate
+terraform.tfstate.backup
+terraform.tfvars
